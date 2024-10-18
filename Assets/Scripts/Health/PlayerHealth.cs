@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
-    //public GameManagerScript Game_Manager;
+    public GameManagerScript Game_Manager;
     [SerializeField] public float health;
     [SerializeField] public float maxHealth;
     public Image healthBar;
@@ -29,7 +29,7 @@ public class PlayerHealth : MonoBehaviour
             isDead = true;
             gameObject.SetActive(false);
             Debug.Log("Dead");
-            //Game_Manager.gameOver(); 
+            Game_Manager.gameOver(); 
         }
     }
 }
