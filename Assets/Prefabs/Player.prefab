@@ -43,7 +43,6 @@ GameObject:
   - component: {fileID: 4661733776973285929}
   - component: {fileID: 4536184600110696408}
   - component: {fileID: 7150683505928729871}
-  - component: {fileID: 6984436461388723446}
   - component: {fileID: 6685516486117435208}
   m_Layer: 0
   m_Name: Player
@@ -192,25 +191,6 @@ Rigidbody2D:
   m_SleepingMode: 0
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &6984436461388723446
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3285259270269720274}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 932a48fe89bdd5045a5ac03031e9ae6e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  jumpingPower: 8
-  rb: {fileID: 7150683505928729871}
-  groundCheck: {fileID: 5574978462161442267}
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 64
-  Tr: {fileID: 6685516486117435208}
 --- !u!96 &6685516486117435208
 TrailRenderer:
   serializedVersion: 3

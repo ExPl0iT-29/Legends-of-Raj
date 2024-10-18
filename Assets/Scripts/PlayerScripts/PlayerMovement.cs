@@ -15,6 +15,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField]  float  fallMultipler;
+    private bool grounded;
+
+    [SerializeField] Animator anim;
 
 
 
@@ -25,6 +28,8 @@ public class PlayerMovement : MonoBehaviour
     private float dashingTime = 0.2f;
     private float DashingCooldown = 0f;
     UnityEngine.Vector2 vecGravity;
+
+    private float cooldownTimer = Mathf.Infinity;
 
     [SerializeField] TrailRenderer Tr;
 
@@ -46,11 +51,12 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") && IsGrounded()) {
             rb.velocity = new UnityEngine.Vector2(rb.velocity.x, jumpingPower);
+            anim.SetTrigger("jump");
         }
 
         if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f) {
             rb.velocity = new UnityEngine.Vector2(rb.velocity.x, rb.velocity.y * 0.5f);
-        }
+             }
 
         Flip();
 
@@ -65,9 +71,15 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
+
+        anim.SetBool("run", horizontal != 0);
+        //anim.SetBool("grounded", grounded);
         // Triggering Dash
         if(Input.GetKeyDown(KeyCode.LeftShift) && canDash){
             StartCoroutine(Dash());
+        }
+        if(Input.GetButtonDown("Fire1")){
+            Attack();
         }
     }
 
@@ -99,5 +111,23 @@ public class PlayerMovement : MonoBehaviour
         isDashing = false;
         yield return new WaitForSeconds(DashingCooldown);
         canDash = true;
+    }
+    private void Attack()
+    {
+        anim.SetTrigger("attack");
+        cooldownTimer = 0;
+        // Reset the attack trigger after a short delay
+        Invoke(nameof(ResetAttackTrigger), 0.1f);
+    }
+
+    private void ResetAttackTrigger()
+    {
+        anim.ResetTrigger("attack");
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Ground")
+            grounded = true;
     }
 }
