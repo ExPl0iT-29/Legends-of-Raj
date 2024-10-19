@@ -1,0 +1,4074 @@
+fileFormatVersion: 2
+guid: 5e81a71ac69850c448da4998df82c42d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zTX Village Props 1_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 960
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71adf4f5adbd6b64180fc3abf2ea790f
+      internalID: -120522077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1009
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d09be6df307f4e9750d4270d42404
+      internalID: -612376688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1000
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0c08830028a924abaf7ac71b7dcf66
+      internalID: 590538921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1000
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d957b097f90646ba1091307306d4d
+      internalID: -1975307772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 960
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6dddd1734a084080d8679820fed12
+      internalID: -1571030963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 960
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ddc161f934d7e4dbd1fe138e5762b0
+      internalID: -1356104776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 960
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf26d782891e1c4cb4de9a3febe31b3
+      internalID: -126832879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 959
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890e7dc50f4b9040b4172298c159461
+      internalID: -954775212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 960
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cfb70f066e0c746b0fe07db1bdb745
+      internalID: 2147397823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 960
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28c0e625212e64ca3de90264e2bb4a
+      internalID: 948935844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 960
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb5ad3066081b409694f91f2b8ad4d
+      internalID: 1935257587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 960
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca18e7b0115bd409d7665e226eee6d
+      internalID: 948171370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_12
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 963
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e8b0fef0903741b752562d4a93d7e
+      internalID: -1939685263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_13
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 960
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e152978d4fbdc2a449bda18cfc6fb1c1
+      internalID: -1942191607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 960
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef7cf22b894464e9bc6edbbee1e78a
+      internalID: 952726955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 960
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d7a65ad3a935a4c85e9af3149e4460
+      internalID: -844330301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 895
+        width: 16
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c7c4192eb749429d06100a79b8572
+      internalID: -295329144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_17
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 961
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669f34ada2bd7d45b94962dd07c74de
+      internalID: -760439684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 946
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeeafd85466d6548a7eb14410f21f24
+      internalID: -403679857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 932
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ee63992949ba4a8b8bdbb95caef0e
+      internalID: -351054344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 896
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b1b8ad5ed41ec49b2d44da67f8c931
+      internalID: 1659250419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 896
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae50588114a0b6b4698df7472522e56a
+      internalID: 1369577679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 896
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95617e0c6e22854d8e3ea296e75938b
+      internalID: -183973937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 896
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604457b5211ca04091b47973cab9e69
+      internalID: 612552983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 919
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d607d6567cc646abc7800b3fafd0e
+      internalID: -519371800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 896
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f88aa614073d824eae746fc0af1b301
+      internalID: 1897810006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 896
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0257ea7c5418b24199643dae251986e
+      internalID: -473820082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 917
+        width: 61
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff6a59545fbdd45ac76bb74422bcbb
+      internalID: -457790762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 896
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9eb95696c6ea4192834df6649174d
+      internalID: 2111581785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_29
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 898
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba3e856d939fa47b1f946abe696e13
+      internalID: -2145026913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 910
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3cf948da194f43b6d7bf476e8d420
+      internalID: -396254252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 908
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bda497a1a2c4b409768269dc6098e8
+      internalID: -1368260343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 908
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471940df9c9f2d74e995bac142318c87
+      internalID: -609124657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 898
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c22d75654a07459d86299e84aa1b8
+      internalID: -1588153518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_34
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 896
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85117a80f56d87d4695245cc54520b7f
+      internalID: -974894900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 896
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e8977a7328fd48a326de4a3522097
+      internalID: -2000043748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 832
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ef28535da3ff4ca4121c6111aefce
+      internalID: -1371703525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_37
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 896
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6fbdbd0f8ee2c468c5bd8dc7ce0117
+      internalID: 173881163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 884
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e98ddb85a3e6740b1fb77ca74ea1d2
+      internalID: -881566174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 867
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd6d56f88d17f45b7c31041a85206d
+      internalID: 338655581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 832
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4bc0e440e17047b1c39ac21ca9c43
+      internalID: -312515142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_41
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 832
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d690cf8b99ea8142a5f63dd46d0d9a7
+      internalID: -553276402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_42
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 832
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3aaa521afedd94a91afb13bff07b0d
+      internalID: 799008207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0c3e096239f349b36db93eedc1190
+      internalID: -1338764377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 800
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b009e762159ff841b1f3326f650dedf
+      internalID: 1168676381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 843
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf585d1c0987a749ae6022450501436
+      internalID: -202525042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 840
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d23ef46fef904b8c8beac36e301a8
+      internalID: 429026588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 832
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34beddd69da52647b4c25c04e09262e
+      internalID: 67768099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9823238c49d5d74aadc611f8bf71962
+      internalID: 1725431581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 832
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffca32e85d98a74b88c50218804b94b
+      internalID: 1586168531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_50
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 843
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5bb51a9da0784b91ac3766035c106
+      internalID: 1355766980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 832
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2bd719a57cb14d9418fdd59b3ebf1
+      internalID: 572085513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_52
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 832
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432a4a46f92b87428699b9ab48df753
+      internalID: 1953178180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 827
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9013e3ea32d14f94c831efb40047f
+      internalID: -1504067921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_54
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 832
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392de28fd585ae45a4559fa56f9770e
+      internalID: -1396274559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 832
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49fc3c3e002cb4897305ccc7eebf20
+      internalID: 1104525019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 800
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f132fbe9064d4587d899dc02c6b4c
+      internalID: -2091665581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 811
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395d197bdd791345bb6b0b26c797e6e
+      internalID: -1713958636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 800
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33261ad87a629904190e7d9265fc5da2
+      internalID: -1389886917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 768
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c222a2c826ba48ae5d48557501329
+      internalID: -2031240153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324f4dddb62f5c4faf421416a338eb8
+      internalID: -707261490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_61
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 768
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7400c7e14d362e43b73125f68a57fa8
+      internalID: 595771273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_62
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 768
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030ace0c23405643b53fa26e964f789
+      internalID: 1071068281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_63
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 704
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b70e9cffee7fc46a65f24d43a19d59
+      internalID: 1288283592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_64
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 700
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f9c170ea9eea45a533b752a4777d4
+      internalID: -1713982749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_65
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc38631038c28a45afa3769aec501fd
+      internalID: -1358750987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_66
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 704
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a1fe9df2818842bf190bed9ed447f
+      internalID: -691947664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_67
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 736
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225012666c740dc429649e5926c749b5
+      internalID: 1345521700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 736
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498db66b736e6954aadd737e7ed178ac
+      internalID: 1680838270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_69
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 704
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c89a6a6a406494795331d5caf7b695
+      internalID: 2107735420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_70
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 704
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97e000cbb57174796393380d700b7d
+      internalID: -2013457050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_71
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 704
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80461169b8874941b04c45d64992423
+      internalID: 1606556677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 677
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1210024639b637341ada58e45e60513c
+      internalID: -1670863810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bf56d1dfee3b46b6e273fd69b15ca
+      internalID: -851359199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 640
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1a1c363fab434b97aca44b1304e90
+      internalID: -1508386451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 665
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49022cd7a7786214bb24d267e4324e18
+      internalID: -1249354121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_76
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 672
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be936ceffc7af28499caa126ac251032
+      internalID: -1383275985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_77
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 676
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf58fd794c10d248a3e8921d35385a6
+      internalID: -1789179453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_78
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 608
+        width: 20
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140039a33756504dafd37c35a6efc93
+      internalID: 259752199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_79
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 608
+        width: 6
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c0de20cacdf24fb55ff9f747af80c
+      internalID: -1763647832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_80
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 608
+        width: 6
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb3ab0ac42564459e5e9a17cc9a7c6
+      internalID: 1748661898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_81
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 640
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47018516657b81642850ac952385c508
+      internalID: 496874458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_82
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 650
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4be76131d6af49bebc01952615e49
+      internalID: -1668221386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_83
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 650
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f84e194ca2764ba5f574e71adac05
+      internalID: -211073525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_84
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 650
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd32915dac214164bbfe46b6c8f3b599
+      internalID: 1307159018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_85
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 650
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6c6ee607e4574aaa89c1bcf3d03bc
+      internalID: -1487457380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_86
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 649
+        width: 92
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8871743e6dc6927418009a2ab21c38e6
+      internalID: -159327536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_87
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 644
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eff4df2f91c5246a66ce2756178821
+      internalID: 1761979294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_88
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 649
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d041e06eed8b1e7439f9d71f956b0b39
+      internalID: 751853025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_89
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 647
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57957167db8581f4fa0ed4e339eaaf5f
+      internalID: -958564284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_90
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 640
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0660e457f1a0542aceaeff84ddb631
+      internalID: -992626308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_91
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 640
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09165934507622147aed4b9cd70acd75
+      internalID: -789114237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_92
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 640
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a3f5ae264b074e9dc2c3643b4943a
+      internalID: 904723701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_93
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 640
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f5677bb5010ba48aaf49f19792a764
+      internalID: 990515325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 608
+        width: 85
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57707aa7953904c80f2670d1135cb3
+      internalID: 1563457524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 582
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f905a64d3b3bd4f996d5a400a9db14
+      internalID: -609607869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_96
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 614
+        width: 104
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fdc12881c4dca4a98b701b71ac5ddd
+      internalID: 935991956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_97
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 582
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dac18884ef38804692631e52e0c9596
+      internalID: -630200074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 607
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ea5178e1fb29428978d225ef49d89
+      internalID: -1796382935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 608
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa364b28d4b1d44a90b098c613744e
+      internalID: 1032079820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_100
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 608
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2c761639e4f7428005193a17eca44
+      internalID: -1758448152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_101
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 590
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1077dce968ea49bd4a9a83c14b05e
+      internalID: -1590331576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_102
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 589
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbb5961728ef9d49a36c49798ad950e
+      internalID: 1553812153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_103
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 588
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b171483eca3a7546b95eab16482fbc9
+      internalID: -2146064100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_104
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 582
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a025d403b8524f8ca1515412f3117
+      internalID: 748711631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_105
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 611
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d03343b55bf442ba36a1e15b9279d
+      internalID: -1193601398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_106
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 580
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9823a27e3bc874eaeb3ca6c4713d1c
+      internalID: 1815992274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_107
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 612
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f01f30e6418e45ad44ab4e2361965
+      internalID: -231322022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_108
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 583
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a2c93c30950644487da8ad290f83d9
+      internalID: 686829406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 550
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b19d1ccb749c6d4b81f3a34d4f729b9
+      internalID: -2021981617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_110
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 447
+        width: 19
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5e20e0103f17c4bbe00121802ff32b
+      internalID: 1933626453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_111
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 447
+        width: 19
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d99f5e4c71be4db9116bde6e1cb3a
+      internalID: -364487447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_112
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 544
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff353ad305411d419de01890192da0a
+      internalID: 1625148303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_113
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 544
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cebd3aee27590c4a905cbb51dbe0086
+      internalID: 582655016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_114
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 544
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d01cb1e827cf96439212991c4847ede
+      internalID: -486990357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_115
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 415
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e567886f08b9748bef5c74f6ce092d
+      internalID: 1823104887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_116
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 415
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e71b3bae4defd48b9a8fa0ba0eab6c
+      internalID: -344973555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc09c4f3041699a45ac13829fefe96bc
+      internalID: -204124070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 536
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7261a1b40f4a64386361bdc6da67a2
+      internalID: -70027536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bb7ae136a5b34890ea03c766d70ad
+      internalID: -575430722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_120
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 480
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b10cc23ddeb64ca77c1159fea6625
+      internalID: -183087166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_121
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 480
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d312e12651bd04a8d241a0f928e22e
+      internalID: 106285511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_122
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 512
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf06a902d5f0948bfb0f32a777a1e8
+      internalID: -1326955970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_123
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 512
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c02dc9f056f754abeeda608fbd5c51
+      internalID: -519329280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_124
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 512
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf30d77f02b5d4e86b3a69d31558ee
+      internalID: 1014311033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_125
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 512
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d81267a37d6e48ad231004852ade2
+      internalID: 1642063829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_126
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 512
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597c0601bf16f3c4e8cfea10929d88a0
+      internalID: -315848363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_127
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 512
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e6849d6b37dd43b04d90e2fc8e391
+      internalID: -1906165432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_128
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 512
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129d2d357b7eb84fb5ba7f4e3db2db7
+      internalID: -1206547233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_129
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 512
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e920dd25f1b8d6f468c677958d23219e
+      internalID: -1076127937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_130
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 480
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4abe3e6416024428b4d8ad13688cd1
+      internalID: 1541288611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_131
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 480
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081a5fb31814e540a5b348f85407133
+      internalID: -631629330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_132
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 480
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98b23b7e645694e961dc76957f6ed6
+      internalID: 516580175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 480
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0631ec7a753574aa70cc4dd39f048e
+      internalID: -1618698448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_134
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 480
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f43472e385d84b97b1fd9f83643bd
+      internalID: -184000305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_135
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 480
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b61004cd8a0aa478f82179392ba2ea
+      internalID: -883658927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_136
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2507b4d1a908374cbe030a40336b900
+      internalID: 1171937019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_137
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 480
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f776948e62aa49b20c3090edbfe77
+      internalID: -924160808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_138
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4fe4876597c904c8546ac1dbf49f9c
+      internalID: 1441759713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_139
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 480
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c34be2e3440d0428e3e2814180e63a
+      internalID: -2109079925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_140
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 480
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1248e09c04e14c9d43e09d7bf11cd
+      internalID: 747369978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_141
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 480
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd00149b6ace24ab594c5f3d8c861a
+      internalID: -565418764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce913d573cdc90840af7c9d1a6cf0858
+      internalID: 1627041821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_143
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 416
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3985b1fe6508243a2eb72a1256338a
+      internalID: -1221574327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_144
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 416
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43614bed4976c49b2b51eafb42920c
+      internalID: -534862556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_145
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 427
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f502c80c3f30954093e60e8fac28af6
+      internalID: 49200348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_146
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 415
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d92f6d13be0f646af1b0552b92c918
+      internalID: -305883579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_147
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 415
+        width: 89
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f1988ced9fa24d9db26fcdc89053f
+      internalID: -10298328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 415
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911eafa665feb874896b7e8828ef99af
+      internalID: 2043318177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 365
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370edb4dbbb03934b8998e5f722cb951
+      internalID: 1756636588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_150
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 365
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b8d1de7525314785dff7728c3cb8e
+      internalID: -392804967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc97207bbde8cf419c58c20abbf07fa
+      internalID: 81329989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 351
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643da26fb4c2552429b3521a72e37171
+      internalID: -1219289520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 351
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04352700cfc184d4ebad8d676d2cc09b
+      internalID: -1462583716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 348
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa2d5ade3b9d94bb6154674520a04b
+      internalID: 1762824835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 351
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac826575577e99049ad49d204851f101
+      internalID: -809074178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_156
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 351
+        width: 130
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15940c124c82e4ba1c5a018d21d69f
+      internalID: 1569990903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_157
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 352
+        width: 136
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623d25385928fd48b15c6ce402a64a7
+      internalID: 1195176350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 332
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c6c20d32e9c54da468b1c0ec960cd
+      internalID: 1385331926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_159
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 332
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2c879662d3924f9524728fddaf133
+      internalID: -1581752146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_160
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 332
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7acb7040b7f8b145b27c3b057379b81
+      internalID: -1852506613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_161
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 287
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163a0ccde70712418a49ac33b296992
+      internalID: 1338302140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_162
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 311
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baa2ea70aecc724b8f2fdd5dfe67104
+      internalID: 460700905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 255
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39518d85f9cdaca4483e0e12766abcc8
+      internalID: 1789777979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 255
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23162229c5a74c4fbe68291e31673c4
+      internalID: -803523059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_165
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 255
+        width: 7
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7914d98aea74dc40b4f4df99a377219
+      internalID: 786826773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_166
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 287
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b6c03c87273ab48b3a6f811e4da642
+      internalID: -2050153078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_167
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 287
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89885705b7a664b99d13cb0c8e1a8c
+      internalID: -529589384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_168
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 287
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26042bcf4b0d0d43b66f205ce78d518
+      internalID: 175839390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_169
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 287
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af546f297acb1ed43b5e1225f1e70d0e
+      internalID: -1234087003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_170
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 287
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e52d5469179840b488ec765a06263
+      internalID: 1493780908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_171
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 300
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed49fe34ff68145bcca1beb35bb6f7
+      internalID: -522652594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_172
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 287
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55380071c9517bf4e94cab4dff331698
+      internalID: -1002232076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_173
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 289
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbff6d49463c75409691f3f65477f26
+      internalID: 1071965833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_174
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 287
+        width: 68
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02a7f2ffd97a04593ae9a2de3380e8
+      internalID: 1240496361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 230
+        width: 128
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79f029b785849448ce8790ce0acbeb
+      internalID: -875270279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_176
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 235
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269f7fceee1b394eae4bc796a980ab5
+      internalID: 957232394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_177
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 224
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315795f498f3ca4f9b8acb9b1bde1cc
+      internalID: -609001785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_178
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 191
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea4baa99cfbbf4f8c2a4e943800289
+      internalID: -1430002333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zTX Village Props 1_179
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 38
+        width: 92
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47910f2ee8499b54a957fad6569123cf
+      internalID: 1674103037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zTX Village Props 1_0: -120522077
+      zTX Village Props 1_1: -612376688
+      zTX Village Props 1_10: 1935257587
+      zTX Village Props 1_100: -1758448152
+      zTX Village Props 1_101: -1590331576
+      zTX Village Props 1_102: 1553812153
+      zTX Village Props 1_103: -2146064100
+      zTX Village Props 1_104: 748711631
+      zTX Village Props 1_105: -1193601398
+      zTX Village Props 1_106: 1815992274
+      zTX Village Props 1_107: -231322022
+      zTX Village Props 1_108: 686829406
+      zTX Village Props 1_109: -2021981617
+      zTX Village Props 1_11: 948171370
+      zTX Village Props 1_110: 1933626453
+      zTX Village Props 1_111: -364487447
+      zTX Village Props 1_112: 1625148303
+      zTX Village Props 1_113: 582655016
+      zTX Village Props 1_114: -486990357
+      zTX Village Props 1_115: 1823104887
+      zTX Village Props 1_116: -344973555
+      zTX Village Props 1_117: -204124070
+      zTX Village Props 1_118: -70027536
+      zTX Village Props 1_119: -575430722
+      zTX Village Props 1_12: -1939685263
+      zTX Village Props 1_120: -183087166
+      zTX Village Props 1_121: 106285511
+      zTX Village Props 1_122: -1326955970
+      zTX Village Props 1_123: -519329280
+      zTX Village Props 1_124: 1014311033
+      zTX Village Props 1_125: 1642063829
+      zTX Village Props 1_126: -315848363
+      zTX Village Props 1_127: -1906165432
+      zTX Village Props 1_128: -1206547233
+      zTX Village Props 1_129: -1076127937
+      zTX Village Props 1_13: -1942191607
+      zTX Village Props 1_130: 1541288611
+      zTX Village Props 1_131: -631629330
+      zTX Village Props 1_132: 516580175
+      zTX Village Props 1_133: -1618698448
+      zTX Village Props 1_134: -184000305
+      zTX Village Props 1_135: -883658927
+      zTX Village Props 1_136: 1171937019
+      zTX Village Props 1_137: -924160808
+      zTX Village Props 1_138: 1441759713
+      zTX Village Props 1_139: -2109079925
+      zTX Village Props 1_14: 952726955
+      zTX Village Props 1_140: 747369978
+      zTX Village Props 1_141: -565418764
+      zTX Village Props 1_142: 1627041821
+      zTX Village Props 1_143: -1221574327
+      zTX Village Props 1_144: -534862556
+      zTX Village Props 1_145: 49200348
+      zTX Village Props 1_146: -305883579
+      zTX Village Props 1_147: -10298328
+      zTX Village Props 1_148: 2043318177
+      zTX Village Props 1_149: 1756636588
+      zTX Village Props 1_15: -844330301
+      zTX Village Props 1_150: -392804967
+      zTX Village Props 1_151: 81329989
+      zTX Village Props 1_152: -1219289520
+      zTX Village Props 1_153: -1462583716
+      zTX Village Props 1_154: 1762824835
+      zTX Village Props 1_155: -809074178
+      zTX Village Props 1_156: 1569990903
+      zTX Village Props 1_157: 1195176350
+      zTX Village Props 1_158: 1385331926
+      zTX Village Props 1_159: -1581752146
+      zTX Village Props 1_16: -295329144
+      zTX Village Props 1_160: -1852506613
+      zTX Village Props 1_161: 1338302140
+      zTX Village Props 1_162: 460700905
+      zTX Village Props 1_163: 1789777979
+      zTX Village Props 1_164: -803523059
+      zTX Village Props 1_165: 786826773
+      zTX Village Props 1_166: -2050153078
+      zTX Village Props 1_167: -529589384
+      zTX Village Props 1_168: 175839390
+      zTX Village Props 1_169: -1234087003
+      zTX Village Props 1_17: -760439684
+      zTX Village Props 1_170: 1493780908
+      zTX Village Props 1_171: -522652594
+      zTX Village Props 1_172: -1002232076
+      zTX Village Props 1_173: 1071965833
+      zTX Village Props 1_174: 1240496361
+      zTX Village Props 1_175: -875270279
+      zTX Village Props 1_176: 957232394
+      zTX Village Props 1_177: -609001785
+      zTX Village Props 1_178: -1430002333
+      zTX Village Props 1_179: 1674103037
+      zTX Village Props 1_18: -403679857
+      zTX Village Props 1_19: -351054344
+      zTX Village Props 1_2: 590538921
+      zTX Village Props 1_20: 1659250419
+      zTX Village Props 1_21: 1369577679
+      zTX Village Props 1_22: -183973937
+      zTX Village Props 1_23: 612552983
+      zTX Village Props 1_24: -519371800
+      zTX Village Props 1_25: 1897810006
+      zTX Village Props 1_26: -473820082
+      zTX Village Props 1_27: -457790762
+      zTX Village Props 1_28: 2111581785
+      zTX Village Props 1_29: -2145026913
+      zTX Village Props 1_3: -1975307772
+      zTX Village Props 1_30: -396254252
+      zTX Village Props 1_31: -1368260343
+      zTX Village Props 1_32: -609124657
+      zTX Village Props 1_33: -1588153518
+      zTX Village Props 1_34: -974894900
+      zTX Village Props 1_35: -2000043748
+      zTX Village Props 1_36: -1371703525
+      zTX Village Props 1_37: 173881163
+      zTX Village Props 1_38: -881566174
+      zTX Village Props 1_39: 338655581
+      zTX Village Props 1_4: -1571030963
+      zTX Village Props 1_40: -312515142
+      zTX Village Props 1_41: -553276402
+      zTX Village Props 1_42: 799008207
+      zTX Village Props 1_43: -1338764377
+      zTX Village Props 1_44: 1168676381
+      zTX Village Props 1_45: -202525042
+      zTX Village Props 1_46: 429026588
+      zTX Village Props 1_47: 67768099
+      zTX Village Props 1_48: 1725431581
+      zTX Village Props 1_49: 1586168531
+      zTX Village Props 1_5: -1356104776
+      zTX Village Props 1_50: 1355766980
+      zTX Village Props 1_51: 572085513
+      zTX Village Props 1_52: 1953178180
+      zTX Village Props 1_53: -1504067921
+      zTX Village Props 1_54: -1396274559
+      zTX Village Props 1_55: 1104525019
+      zTX Village Props 1_56: -2091665581
+      zTX Village Props 1_57: -1713958636
+      zTX Village Props 1_58: -1389886917
+      zTX Village Props 1_59: -2031240153
+      zTX Village Props 1_6: -126832879
+      zTX Village Props 1_60: -707261490
+      zTX Village Props 1_61: 595771273
+      zTX Village Props 1_62: 1071068281
+      zTX Village Props 1_63: 1288283592
+      zTX Village Props 1_64: -1713982749
+      zTX Village Props 1_65: -1358750987
+      zTX Village Props 1_66: -691947664
+      zTX Village Props 1_67: 1345521700
+      zTX Village Props 1_68: 1680838270
+      zTX Village Props 1_69: 2107735420
+      zTX Village Props 1_7: -954775212
+      zTX Village Props 1_70: -2013457050
+      zTX Village Props 1_71: 1606556677
+      zTX Village Props 1_72: -1670863810
+      zTX Village Props 1_73: -851359199
+      zTX Village Props 1_74: -1508386451
+      zTX Village Props 1_75: -1249354121
+      zTX Village Props 1_76: -1383275985
+      zTX Village Props 1_77: -1789179453
+      zTX Village Props 1_78: 259752199
+      zTX Village Props 1_79: -1763647832
+      zTX Village Props 1_8: 2147397823
+      zTX Village Props 1_80: 1748661898
+      zTX Village Props 1_81: 496874458
+      zTX Village Props 1_82: -1668221386
+      zTX Village Props 1_83: -211073525
+      zTX Village Props 1_84: 1307159018
+      zTX Village Props 1_85: -1487457380
+      zTX Village Props 1_86: -159327536
+      zTX Village Props 1_87: 1761979294
+      zTX Village Props 1_88: 751853025
+      zTX Village Props 1_89: -958564284
+      zTX Village Props 1_9: 948935844
+      zTX Village Props 1_90: -992626308
+      zTX Village Props 1_91: -789114237
+      zTX Village Props 1_92: 904723701
+      zTX Village Props 1_93: 990515325
+      zTX Village Props 1_94: 1563457524
+      zTX Village Props 1_95: -609607869
+      zTX Village Props 1_96: 935991956
+      zTX Village Props 1_97: -630200074
+      zTX Village Props 1_98: -1796382935
+      zTX Village Props 1_99: 1032079820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

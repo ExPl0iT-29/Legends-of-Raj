@@ -45,7 +45,7 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
         
-        if(!Global.playmode) return;
+        //if(!Global.playmode) return;
 
         horizontal = Input.GetAxisRaw("Horizontal");
 
@@ -61,7 +61,7 @@ public class PlayerMovement : MonoBehaviour
         Flip();
 
         if(rb.velocity.y < 0){
-            rb.velocity -= vecGravity *fallMultipler *Time.deltaTime;
+            rb.velocity -= vecGravity * fallMultipler * Time.deltaTime;
         }
     }
 

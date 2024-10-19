@@ -9,6 +9,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private Button playButton;
     // Start is called before the first frame update
     public void PlayGame(){
+        //Debug.Log("playmode");
         if(!Global.playmode){
             Global.playmode = true;
             playButton.gameObject.SetActive(false);

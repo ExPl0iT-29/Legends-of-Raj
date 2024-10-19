@@ -9,16 +9,16 @@ public class Bullet : MonoBehaviour
     public Rigidbody2D rb;
     public int damage = 40;
 
-    //private Shake shake;
+    private Shake shake;
     // Start is called before the first frame update
     void Start()
     {
-        //shake = GameObject.FindGameObjectWithTag("ScreenShake").GetComponent<Shake>();
+        shake = GameObject.FindGameObjectWithTag("ScreenShake").GetComponent<Shake>();
         rb.velocity = transform.right * speed; 
     }
 
     void OnTriggerEnter2D(Collider2D hitInfo) {
-        //shake.camShake();
+        shake.camShake();
         Enemy enemy = hitInfo.GetComponent<Enemy>();
         if(enemy != null){
             enemy.TakeDamage(damage);
